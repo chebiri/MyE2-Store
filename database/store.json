@@ -8,7 +8,8 @@
     "version": "1.2.0",
     "author": "MyE2 Official",
     "type": "plugin",
-    "isVerified": true
+    "isVerified": true,
+    "installCommand": null
   },
   {
     "id": "skin.black.neon",
@@ -19,17 +20,31 @@
     "version": "1.0.5",
     "author": "MyE2 Official",
     "type": "skin",
-    "isVerified": true
+    "isVerified": true,
+    "installCommand": null
   },
   {
     "id": "picons.nilesat",
     "title": "Nilesat Picons Pack",
-    "description": "High-quality picons for all Nilesat channels.",
+    "description": "High-quality picons for all Nilesat channels. (Auto-extracted to /)",
     "iconUrl": "https://raw.githubusercontent.com/chebiri/MyE2-Store/main/images/picons_preview.png",
     "downloadUrl": "https://raw.githubusercontent.com/chebiri/MyE2-Store/main/picons/picons-nilesat.tar.gz",
     "version": "2024.1",
     "author": "MyE2 Official",
     "type": "picon",
-    "isVerified": true
+    "isVerified": true,
+    "installCommand": null
+  },
+  {
+    "id": "softcam.oscam",
+    "title": "OSCam Emu 11715",
+    "description": "Latest OSCam emulator for card sharing. Installs via script.",
+    "iconUrl": "https://raw.githubusercontent.com/chebiri/MyE2-Store/main/images/oscam_logo.png",
+    "downloadUrl": "https://raw.githubusercontent.com/chebiri/MyE2-Store/main/softcams/oscam_installer.sh",
+    "version": "11715",
+    "author": "Community Mod",
+    "type": "softcam",
+    "isVerified": true,
+    "installCommand": "chmod 755 /tmp/oscam_installer.sh && /tmp/oscam_installer.sh"
   }
 ]
