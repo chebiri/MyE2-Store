@@ -1,1 +1,35 @@
-
+[
+  {
+    "id": "plugin.youtube",
+    "title": "YouTube for Enigma2",
+    "description": "Watch your favorite YouTube videos directly on your TV.",
+    "iconUrl": "https://raw.githubusercontent.com/chebiri/MyE2-Store/main/images/youtube_logo.png",
+    "downloadUrl": "https://raw.githubusercontent.com/chebiri/MyE2-Store/main/plugins/enigma2-plugin-youtube.ipk",
+    "version": "1.2.0",
+    "author": "MyE2 Official",
+    "type": "plugin",
+    "isVerified": true
+  },
+  {
+    "id": "skin.black.neon",
+    "title": "Black Neon Skin",
+    "description": "Premium dark skin with neon accents for your Enigma2 GUI.",
+    "iconUrl": "https://raw.githubusercontent.com/chebiri/MyE2-Store/main/images/skin_preview.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/chebiri/MyE2-Store/main/skins/skin-black-neon.ipk",
+    "version": "1.0.5",
+    "author": "MyE2 Official",
+    "type": "skin",
+    "isVerified": true
+  },
+  {
+    "id": "picons.nilesat",
+    "title": "Nilesat Picons Pack",
+    "description": "High-quality picons for all Nilesat channels.",
+    "iconUrl": "https://raw.githubusercontent.com/chebiri/MyE2-Store/main/images/picons_preview.png",
+    "downloadUrl": "https://raw.githubusercontent.com/chebiri/MyE2-Store/main/picons/picons-nilesat.tar.gz",
+    "version": "2024.1",
+    "author": "MyE2 Official",
+    "type": "picon",
+    "isVerified": true
+  }
+]
