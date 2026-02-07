@@ -1,5 +1,22 @@
 [
   {
+    "id": "plugin.adc9cf61",
+    "title": "AJPANEL",
+    "description": "The popular add-ons store AJPANEL",
+    "iconUrl": "https://raw.githubusercontent.com/chebiri/MyE2-Store/main/images/ajpanel.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/chebiri/MyE2-Store/main/plugins/enigma2-plugin-extensions-ajpanel_v8.8.5_all.zip",
+    "version": "8.8.5",
+    "author": "Admin",
+    "type": "plugin",
+    "isVerified": true,
+    "isActive": true,
+    "installCommand": null,
+    "date": "2026-02-07",
+    "size": "376.0 KB",
+    "downloads": 0,
+    "sub_category": "System"
+  },
+  {
     "id": "plugin.0892ac28",
     "title": "NOVALER TV",
     "description": "NOVALER TV",
