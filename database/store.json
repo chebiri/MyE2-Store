@@ -61,17 +61,5 @@
     "type": "picon",
     "isVerified": true,
     "installCommand": null
-  },
-  {
-    "id": "softcam.oscam",
-    "title": "OSCam Emu 11715",
-    "description": "Latest OSCam emulator for card sharing. Installs via script.",
-    "iconUrl": "https://raw.githubusercontent.com/chebiri/MyE2-Store/main/images/oscam_logo.png",
-    "downloadUrl": "https://raw.githubusercontent.com/chebiri/MyE2-Store/main/softcams/oscam_installer.sh",
-    "version": "11715",
-    "author": "Community Mod",
-    "type": "softcam",
-    "isVerified": true,
-    "installCommand": "chmod 755 /tmp/oscam_installer.sh && /tmp/oscam_installer.sh"
   }
 ]
