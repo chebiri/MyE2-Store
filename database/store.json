@@ -1,22 +1,5 @@
 [
   {
-    "id": "plugin.a43c03df",
-    "title": "NOVALER TV",
-    "description": "NOVALER TV",
-    "iconUrl": "https://raw.githubusercontent.com/chebiri/MyE2-Store/main/images/novalertv.jpg",
-    "downloadUrl": "https://www.novaler.com/uploads/plugins/enigma2-plugin-extensions-novalertv-11.zip",
-    "version": "11.0",
-    "author": "Admin",
-    "type": "plugin",
-    "isVerified": true,
-    "isActive": true,
-    "installCommand": null,
-    "date": "2026-02-07",
-    "size": "15.0 MB",
-    "downloads": 0,
-    "sub_category": "Novaler"
-  },
-  {
     "id": "plugin.1da559a5",
     "title": "SUPTV",
     "description": "SUPTV",
