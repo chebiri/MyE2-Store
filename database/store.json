@@ -49,17 +49,5 @@
     "type": "skin",
     "isVerified": true,
     "installCommand": null
-  },
-  {
-    "id": "picons.nilesat",
-    "title": "Nilesat Picons Pack",
-    "description": "High-quality picons for all Nilesat channels. (Auto-extracted to /)",
-    "iconUrl": "https://raw.githubusercontent.com/chebiri/MyE2-Store/main/images/picons_preview.png",
-    "downloadUrl": "https://raw.githubusercontent.com/chebiri/MyE2-Store/main/picons/picons-nilesat.tar.gz",
-    "version": "2024.1",
-    "author": "MyE2 Official",
-    "type": "picon",
-    "isVerified": true,
-    "installCommand": null
   }
 ]
