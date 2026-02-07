@@ -1,5 +1,20 @@
 [
   {
+    "id": "plugin.6f66dda4",
+    "title": "Xstreamity",
+    "description": "Best for playing files M3U",
+    "iconUrl": "https://raw.githubusercontent.com/chebiri/MyE2-Store/main/images/xstreamity.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/chebiri/MyE2-Store/main/plugins/enigma2-plugin-xstreamity_4.02.20230510_all.zip",
+    "version": "4.02",
+    "author": "Admin",
+    "type": "plugin",
+    "isVerified": true,
+    "isActive": true,
+    "installCommand": null,
+    "date": "2026-02-07",
+    "size": "1.2 KB"
+  },
+  {
     "id": "إضافة.097c9521",
     "title": "QURAN",
     "description": "Listening to the Holy Quran from the receiver",
