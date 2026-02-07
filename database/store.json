@@ -17,22 +17,6 @@
     "device_model": "Multibox 4K Ultra HD"
   },
   {
-    "id": "softcam.2c924d10",
-    "title": "Novaler MultiCam Manager",
-    "description": "all  cam oscam ncam cccam supcam ultracam\nsupport  python 2 , 3",
-    "iconUrl": "https://raw.githubusercontent.com/chebiri/MyE2-Store/main/images/novalermulticammanag.jpg",
-    "downloadUrl": "https://raw.githubusercontent.com/chebiri/MyE2-Store/main/softcams/enigma2-plugin-extensions-camnova_1.8-arm_all.zip",
-    "version": "1.8",
-    "author": "Admin",
-    "type": "softcam",
-    "isVerified": true,
-    "isActive": true,
-    "installCommand": null,
-    "date": "2026-02-07",
-    "size": "3.0 MB",
-    "downloads": 0
-  },
-  {
     "id": "skin.333b30f3",
     "title": "OctEtFHD OpenPli 7.2",
     "description": "OctEtFHD OpenPli 7.2 Skin",
