@@ -1,5 +1,20 @@
 [
   {
+    "id": "إضافة.enigma2-plugin-extensions-quran-karim_1_0_by_electroyassine_all_zip",
+    "title": "QURAN",
+    "description": "Listening to the Holy Quran from the receiver",
+    "iconUrl": "https://raw.githubusercontent.com/chebiri/MyE2-Store/main/images/quran.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/chebiri/MyE2-Store/main/plugins/enigma2-plugin-extensions-quran-karim_1.0_by_electroyassine_all.zip",
+    "version": "1.0",
+    "author": "Admin",
+    "type": "إضافة",
+    "isVerified": true,
+    "installCommand": null,
+    "date": "2026-02-07",
+    "size": "1.2 KB",
+    "downloads": 0
+  },
+  {
     "id": "plugin.enigma2-plugin-extensions-quran-karim_1_0_by_electroyassine_all_zip",
     "title": "QURAN",
     "description": "Listening to the Holy Quran from the receiver",
