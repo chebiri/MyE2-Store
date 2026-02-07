@@ -21,7 +21,7 @@
     "title": "NOVALER TV",
     "description": "Novaler TV",
     "iconUrl": "https://raw.githubusercontent.com/chebiri/MyE2-Store/main/images/novalertv.jpg",
-    "downloadUrl": "https://raw.githubusercontent.com/chebiri/MyE2-Store/main/plugins/enigma2-plugin-extensions-novalertv-11.zip",
+    "downloadUrl": "https://www.novaler.com/uploads/plugins/enigma2-plugin-extensions-novalertv-11.zip",
     "version": "11.0",
     "author": "Admin",
     "type": "plugin",
