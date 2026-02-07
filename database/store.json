@@ -1,5 +1,22 @@
 [
   {
+    "id": "skin.333b30f3",
+    "title": "OctEtFHD OpenPli 7.2",
+    "description": "OctEtFHD OpenPli 7.2 Skin",
+    "iconUrl": "https://raw.githubusercontent.com/chebiri/MyE2-Store/main/images/octetfhdopenpli72.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/chebiri/MyE2-Store/main/skins/Skin-OctEtFHD_OpenPLi7.2_all.zip",
+    "version": "7.2",
+    "author": "Admin",
+    "type": "skin",
+    "isVerified": true,
+    "isActive": true,
+    "installCommand": null,
+    "date": "2026-02-07",
+    "size": "3.0 MB",
+    "downloads": 0,
+    "compatible_image": "OpenPli"
+  },
+  {
     "id": "plugin.adc9cf61",
     "title": "AJPANEL",
     "description": "The popular add-ons store AJPANEL",
