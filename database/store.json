@@ -37,17 +37,5 @@
     "type": "plugin",
     "isVerified": true,
     "installCommand": null
-  },
-  {
-    "id": "skin.black.neon",
-    "title": "Black Neon Skin",
-    "description": "Premium dark skin with neon accents for your Enigma2 GUI.",
-    "iconUrl": "https://raw.githubusercontent.com/chebiri/MyE2-Store/main/images/skin_preview.jpg",
-    "downloadUrl": "https://raw.githubusercontent.com/chebiri/MyE2-Store/main/skins/skin-black-neon.ipk",
-    "version": "1.0.5",
-    "author": "MyE2 Official",
-    "type": "skin",
-    "isVerified": true,
-    "installCommand": null
   }
 ]
