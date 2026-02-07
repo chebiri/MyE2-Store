@@ -1,5 +1,27 @@
 [
   {
+    "id": "skin.d930c894",
+    "title": "Estuary",
+    "description": "Estuary",
+    "iconUrl": "https://raw.githubusercontent.com/chebiri/MyE2-Store/main/images/img_a96e7eb2_icon.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/chebiri/MyE2-Store/main/skins/Estuary.tar",
+    "version": "1",
+    "author": "Admin",
+    "type": "skin",
+    "isVerified": true,
+    "isActive": true,
+    "installCommand": null,
+    "date": "2026-02-07",
+    "size": "6.2 MB",
+    "downloads": 0,
+    "compatible_image": "PUR-E2",
+    "screenshots": [
+      "https://raw.githubusercontent.com/chebiri/MyE2-Store/main/images/img_506429c5_scr1.jpg",
+      "https://raw.githubusercontent.com/chebiri/MyE2-Store/main/images/img_c057c881_scr2.jpg",
+      "https://raw.githubusercontent.com/chebiri/MyE2-Store/main/images/img_25ce2853_scr3.jpg"
+    ]
+  },
+  {
     "id": "skin.333b30f3",
     "title": "OctEtFHD OpenPli 7.2",
     "description": "OctEtFHD OpenPli 7.2 Skin",
