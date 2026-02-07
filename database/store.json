@@ -1,5 +1,22 @@
 [
   {
+    "id": "plugin.bd1d7410",
+    "title": "NOVALER TV",
+    "description": "Novaler TV",
+    "iconUrl": "https://raw.githubusercontent.com/chebiri/MyE2-Store/main/images/novalertv.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/chebiri/MyE2-Store/main/plugins/enigma2-plugin-extensions-novalertv-11.zip",
+    "version": "11.0",
+    "author": "Admin",
+    "type": "plugin",
+    "isVerified": true,
+    "isActive": true,
+    "installCommand": null,
+    "date": "2026-02-07",
+    "size": "1.2 KB",
+    "downloads": 0,
+    "sub_category": "Novaler"
+  },
+  {
     "id": "plugin.6f66dda4",
     "title": "Xstreamity",
     "description": "Best for playing files M3U",
