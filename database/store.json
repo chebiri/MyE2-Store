@@ -1,5 +1,27 @@
 [
   {
+    "id": "skin.158a8ace",
+    "title": "Fury-FHD",
+    "description": "سكين نسخة محدثة",
+    "iconUrl": "https://raw.githubusercontent.com/chebiri/MyE2-Store/main/images/img_a3f7d932_icon.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/chebiri/MyE2-Store/main/skins/enigma2-plugin-skins-fury-fhd_6.8_all.ipk.deb",
+    "version": "6.8",
+    "author": "Admin",
+    "type": "skin",
+    "isVerified": true,
+    "isActive": true,
+    "installCommand": null,
+    "date": "2026-02-12",
+    "size": "12.5 MB",
+    "downloads": 0,
+    "compatible_image": "All",
+    "screenshots": [
+      "https://raw.githubusercontent.com/chebiri/MyE2-Store/main/images/img_deefecf7_scr1.jpg",
+      "https://raw.githubusercontent.com/chebiri/MyE2-Store/main/images/img_c452e11b_scr2.jpg",
+      "https://raw.githubusercontent.com/chebiri/MyE2-Store/main/images/img_6d9ec910_scr3.jpg"
+    ]
+  },
+  {
     "id": "skin.d930c894",
     "title": "Estuary",
     "description": "Estuary",
