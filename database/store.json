@@ -1,5 +1,27 @@
 [
   {
+    "id": "skin.b540bf5f",
+    "title": "blueaccents-hd",
+    "description": "",
+    "iconUrl": "https://raw.githubusercontent.com/chebiri/MyE2-Store/main/images/img_13709bff_icon.jpg",
+    "downloadUrl": "https://raw.githubusercontent.com/chebiri/MyE2-Store/main/skins/enigma2-plugin-skins-blueaccents-hd_0.4_all.zip",
+    "version": "1.0",
+    "author": "Admin",
+    "type": "skin",
+    "isVerified": true,
+    "isActive": true,
+    "installCommand": null,
+    "date": "2026-02-12",
+    "size": "2.9 MB",
+    "downloads": 0,
+    "compatible_image": "OpenAtv 7.x",
+    "screenshots": [
+      "https://raw.githubusercontent.com/chebiri/MyE2-Store/main/images/img_c7b1416b_scr1.jpg",
+      "https://raw.githubusercontent.com/chebiri/MyE2-Store/main/images/img_2ecaca2e_scr2.jpg",
+      "https://raw.githubusercontent.com/chebiri/MyE2-Store/main/images/img_3d9cf4c5_scr3.jpg"
+    ]
+  },
+  {
     "id": "skin.d930c894",
     "title": "Estuary",
     "description": "Estuary",
